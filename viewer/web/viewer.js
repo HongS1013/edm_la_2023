@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'siemens-2013-learning-analytics-the-emergence-of-a-discipline.pdf',
+    value: 'Educational-Data-Mining-and-Learning-Analytics-in-the-21st-Century.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
